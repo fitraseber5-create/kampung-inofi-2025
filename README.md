@@ -1,6 +1,15 @@
 
 <html lang="id">
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4J85S9CN6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4J85S9CN6X');
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>KAMPUNG INOFI</title>
@@ -168,6 +177,7 @@ table thead tr {
   background-color: #2f5b8a; /* header biru */
   color: white; /* teks header tetap putih agar kontras */
 }
+
 
   </style>
 </head>
