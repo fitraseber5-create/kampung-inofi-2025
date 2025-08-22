@@ -419,7 +419,7 @@ table thead tr {
 <section id="profil-data-kampung" class="slide-section">
 
   <h2>Profil Data Kampung Inofi</h2>
-  <table style="width:100%; border-collapse: collapse; background-color: rgba(66, 108, 159, 0.8); color: white;">
+  <table style="width:100%; border-collapse: collapse; background-color: rgba(66, 108, 159, 0.8); color: hsl(0, 3%, 6%);">
     <thead>
       <tr style="background-color: #2f5b8a;">
         <th style="padding: 8px; border: 1px solid #ccc;">No</th>
