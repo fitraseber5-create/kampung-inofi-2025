@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -187,7 +187,7 @@
     </p>
 
     <h4 style="margin-top: 15px;">Anggota Tim Sembilan:</h4>
-    <table style="width:100%; border-collapse: collapse; color: white;">
+    <table style="black:100%; border-collapse: collapse; color: #211e1e;">
       <thead>
         <tr style="background-color: #426c9f;">
           <th style="padding: 8px; border: 1px solid #ccc;">No</th>
