@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -356,13 +356,13 @@
   <ul class="objek-wisata">
     <li>
       <figure style="margin:0;">
-        <img src="segara_indah.WEBP" alt="Pantai" style="width: 4in; height: 4in; border-radius: 10px;">
+        <img src="segara_indah.webp" alt="Pantai" style="width: 4in; height: 4in; border-radius: 10px;">
         <figcaption style="color: white; margin-top: 8px;">Pemandangan pantai Segara Indah</figcaption>
       </figure>
     </li>
     <li>
       <figure style="margin:0;">
-        <img src="tugu_karang.JPG" alt="Tugu Terumbu Karang" style="width: 4in; height: 4in; border-radius: 10px;">
+        <img src="tugu_karang.jpg" alt="Tugu Terumbu Karang" style="width: 4in; height: 4in; border-radius: 10px;">
         <figcaption style="color: white; margin-top: 8px;">TUGU TERUMBU KARANG</figcaption>
       </figure>
     </li>
