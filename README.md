@@ -38,7 +38,7 @@
       background-position: center;
       padding: 60px 20px;
       text-align: center;
-      color: white;
+      color: #f7f5f5;
       position: relative;
     }
 
@@ -225,7 +225,7 @@
       Nama awal kampung ini adalah “<strong>Inof</strong>”, namun pada surat resmi Kementerian Dalam Negeri tahun 2018, mengalami perubahan menjadi “<strong>Inofi</strong>” dengan penambahan huruf “i”.
     </p>
 
-    <p style="text-align: center; font-style: italic; font-size: 14px; color: #ccc; margin-top: 20px;">
+    <p style="text-align: center; font-style: italic; font-size: 14px; color: hsl(0, 9%, 2%); margin-top: 20px;">
       Sumber: Lamek N. Inggamer – Sekretaris Tim IX<br>
     </p>
   </div>
@@ -363,7 +363,7 @@
     <li>
       <figure style="margin:0;">
         <img src="tugu_karang.jpg" alt="Tugu Terumbu Karang" style="width: 4in; height: 4in; border-radius: 10px;">
-        <figcaption style="color: white; margin-top: 8px;">TUGU TERUMBU KARANG</figcaption>
+        <figcaption style="color: rgb(255, 255, 255); margin-top: 8px;">TUGU TERUMBU KARANG</figcaption>
       </figure>
     </li>
   </ul>
