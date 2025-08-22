@@ -184,7 +184,7 @@ table thead tr {
   <a href="#" onclick="showSection('struktur-pemerintahan')">Struktur Pemerintahan</a>
   <a href="#" onclick="showSection('lokasi dan wilayah')">Lokasi dan wilayah</a>
   <a href="#" onclick="showSection('objek')">Objek Wisata</a>
-  <a href="#" onclick="showSection('profil-data-kampung')">Profil Data Kampung</a>
+  <a href="#" onclick="showSection('data-kampung')">Data Kampung</a>
 </div>
 
 <header>
@@ -416,9 +416,9 @@ table thead tr {
 
 
 
-<section id="profil-data-kampung" class="slide-section">
+<section id="data-kampung" class="slide-section">
 
-  <h2>Profil Data Kampung Inofi</h2>
+  <h2>Data Kampung Inofi</h2>
   <table style="width:100%; border-collapse: collapse; background-color: rgba(66, 108, 159, 0.8); color: hsl(0, 3%, 6%);">
     <thead>
       <tr style="background-color: #2f5b8a;">
