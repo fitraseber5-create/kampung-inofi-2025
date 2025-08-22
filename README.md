@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -150,6 +150,25 @@
       gap: 10px;
       margin-top: 10px;
     }
+
+    table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.9); /* supaya teks hitam lebih jelas */
+  color: black; /* semua teks tabel jadi hitam */
+}
+
+table th, table td {
+  color: black; /* pastikan semua cell teks hitam */
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+table thead tr {
+  background-color: #2f5b8a; /* header biru */
+  color: white; /* teks header tetap putih agar kontras */
+}
+
   </style>
 </head>
 
